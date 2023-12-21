@@ -1,3 +1,37 @@
+//Assignment Operator
+//1. Equal/Assignment (=)
+// It is used to assign a value to a variable
+
+let variable1=1;
+let stringOne="Hello World";
+let number1=5.4;
+let flag1=true;
+let varNULL=null;
+
+//2. Increment/Decrement Operator (++/--)
+// There are two type of increment/Decrement Operator
+//A. Pre increment/decrement (++i/--i)
+// It increase/decrease the value first the perform operation
+//Example-1
+let i=5;
+console.log(++i);  //Output= 6
+console.log(i)  // Output=6
+//Example-2
+let j=9
+console.log(--j); //Output= 8
+console.log(j) //Output=8
+//B. Post Increment/Decrement
+// In this case the operation get performaed fist and then the value get increased/decreased
+//Example-1
+let k=11;
+console.log(k++)   //Output=11
+console.log(k)   //Output=12
+//Example-2
+let l=18;
+console.log(l--);  //output=18
+console.log(l)  // output=17
+
+
 // Mathematical Operators
 
 // 1. Addition
