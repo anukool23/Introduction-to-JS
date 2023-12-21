@@ -1,7 +1,6 @@
 //Assignment Operator
 //1. Equal/Assignment (=)
 // It is used to assign a value to a variable
-
 let variable1=1;
 let stringOne="Hello World";
 let number1=5.4;
