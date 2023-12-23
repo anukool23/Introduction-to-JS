@@ -30,6 +30,8 @@ let l=18;
 console.log(l--);  //output=18
 console.log(l)  // output=17
 
+//3.augmented assignment operators or compound assignment operators
+
 
 // Mathematical Operators
 
